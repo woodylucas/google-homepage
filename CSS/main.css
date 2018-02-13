@@ -138,6 +138,12 @@ footer ul {
 
 }
 
+a:hover {
+	color: red;
+
+
+}
+
 .footer-right {
 	float: none; 
 	text-align: center; 
